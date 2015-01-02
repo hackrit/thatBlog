@@ -1,1 +1,2 @@
-A super light blog.
+# thatBlog
+### a super simple blog
